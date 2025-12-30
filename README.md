@@ -1,2 +1,20 @@
-# Khata-Book
-Khata Book is a simple and secure digital ledger app to manage your business accounts easily. Track customer credit, debit, and payments in one place. Get payment reminders, backup support, and clear reports to keep your daily transactions organized and your business running smoothly.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1laJrAlKDdhh_7H7Wv7zY-VI02eKxl_2_
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
